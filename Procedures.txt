@@ -3,4 +3,4 @@
    command: bash init_setup.sh
 
 3. Kaggle : https://www.kaggle.com/competitions/playground-series-s3e8/rules
-4. Do the experiments in Experiments jupyter source file
+4. Do all the experiments in Experiments jupyter source file
