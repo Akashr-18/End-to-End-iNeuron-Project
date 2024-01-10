@@ -1,0 +1,5 @@
+1. Template.py
+2. init_setup.sh
+   command: bash init_setup.sh
+
+3. Kaggle : https://www.kaggle.com/competitions/playground-series-s3e8/rules
