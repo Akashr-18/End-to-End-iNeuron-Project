@@ -4,3 +4,5 @@
 
 3. Kaggle : https://www.kaggle.com/competitions/playground-series-s3e8/rules
 4. Do all the experiments in Experiments jupyter source file
+
+5. Add the CustomException logic in the excpetion file
