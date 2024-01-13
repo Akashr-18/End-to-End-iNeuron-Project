@@ -9,3 +9,4 @@
 6. Add the logger logic in the logging file
 
 7. Add all components folder.
+8. Add app.py
