@@ -7,3 +7,5 @@
 
 5. Add the CustomException logic in the excpetion file
 6. Add the logger logic in the logging file
+
+7. Add all components folder.
